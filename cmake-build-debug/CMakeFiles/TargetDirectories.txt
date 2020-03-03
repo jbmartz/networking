@@ -1,0 +1,3 @@
+/Users/jmartz/networking_fall_2019_martz/udp_mini_proj2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jmartz/networking_fall_2019_martz/udp_mini_proj2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jmartz/networking_fall_2019_martz/udp_mini_proj2/cmake-build-debug/CMakeFiles/simple_client.dir

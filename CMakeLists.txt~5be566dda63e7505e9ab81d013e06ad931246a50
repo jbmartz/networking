@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.8)
+project(udp_mini_proj1)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CLIENT_SOURCE cf_client.cpp connectfour.h cf_server.cpp cf_server.h)
+add_executable(simple_client ${CLIENT_SOURCE} connectfour.h)
